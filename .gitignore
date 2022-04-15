@@ -1,0 +1,7 @@
+/bin/
+/blockedSites.txt
+/cachedSites.txt
+/lib
+/cert/
+/keystore
+
